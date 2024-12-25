@@ -11,4 +11,4 @@ $squared = arrey_map(function ($number) {
     return $number * $number;
 }, $number);
 
-print_r($squared);
+//print_r($squared);
